@@ -1,4 +1,4 @@
-branches](git-acquis\images\git-acquis\images\branche.png# GIT 
+# GIT 
 --------
 
 ## C'est quoi git?
