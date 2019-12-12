@@ -24,7 +24,8 @@ tout d'abord, pour faire les choses dans les règles, il faut s'assurer de deux 
 2. avoir creer, sur notre pc, le dossier dans lequel on va *cloner* notre repository
 
 lorsque le terminal est ouvert et que l'on est dans le dossier correspondant, il faut cloner notre repository grâce au lien donner par github
-pour cela, utiliser la commande
+pour cela, utilisez la commande
+
 `git clone <lien github mon repository>`
 
 cela va permettre de creer le lien entre notre instance locale et notre instance distante(sur github).
