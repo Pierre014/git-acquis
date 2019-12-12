@@ -1,4 +1,4 @@
-# GIT 
+branches](git-acquis\images\git-acquis\images\branche.png# GIT 
 --------
 
 ## C'est quoi git?
@@ -15,7 +15,7 @@ il permet de de créer, de modifier, de partager ses  travaux de dévelopement a
 	* le commit
 * le merge
 
-### commençons par les branches ![branches](git-acquis\images\branche.png)
+### commençons par les branches ![branches](C:\Users\Pierr\Desktop\Git\git-acquis\images\branche.png)
 --------------------------------
 
 tout d'abord, pour faire les choses dans les règles, il faut s'assurer de deux choses:
